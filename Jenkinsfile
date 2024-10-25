@@ -1,10 +1,10 @@
 pipeline {
     agent any
     environment {
-        GIT_REPO = 'https://github.com/joisyousef/nodejs.org.git'
-        DOCKER_USER = "joisyousef"
+        GIT_REPO = 'https://github.com/SaifmElnagar/nodejs.org.git'
+        DOCKER_USER = "saifelnagar"
         DOCKER_PASS = "docker-hub-credentials" // Jenkins credentials ID for Docker Hub
-        APP_NAME = "nodejs-app"
+        APP_NAME = "nodjs"
         IMAGE_NAME = "${DOCKER_USER}/${APP_NAME}"
         IMAGE_TAG = 'latest'
         DOCKER_CREDENTIALS_ID = 'docker-hub-credentials'
