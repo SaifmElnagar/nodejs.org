@@ -24,6 +24,9 @@ The project deploys a Node.js application from a GitHub repository to a Kubernet
 1. **Fork the Repository**: Fork the [Node.js GitHub repository](https://github.com/nodejs/nodejs.org.git) to your GitHub account.
 2. **Clone the Repository**: Clone the forked repository on your Jenkins VM.
 3. **Build and Test Application Locally**: Ensure Node.js (version 18) is installed, and run unit tests.
+
+![Screenshot from 2024-10-25 15-59-36](https://github.com/user-attachments/assets/f94b5e16-3b3f-48f9-84f6-0a0ff1c91cb3)
+
 4. **Create Dockerfile**: Dockerize the application and push the Dockerfile to your GitHub repository.
 5. **Set Up Jenkins Pipeline**: Automate the build and deployment in Jenkins. The pipeline stages include:
     - *Checkout code*
