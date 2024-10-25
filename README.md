@@ -100,7 +100,8 @@ This project is open-source, licensed under the [MIT License](LICENSE).
 
 ![Screenshot from 2024-10-25 17-9-16](https://github.com/user-attachments/assets/34d922a6-e15e-4595-9e11-97f25829bc56)
 
-![Screenshot from 2024-10-25 17-38-57](https://github.com/user-attachments/assets/a829f5fb-27c7-4597-86a0-867596af8b5d)
+![Screenshot from 2024-10-25 17-41-55](https://github.com/user-attachments/assets/288356fa-bd7d-40cb-afe7-0c1a6ad0f7d4)
+
 
 
 
