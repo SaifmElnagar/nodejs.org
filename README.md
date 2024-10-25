@@ -88,3 +88,30 @@ pipeline {
 This project is open-source, licensed under the [MIT License](LICENSE).
 
 ---
+
+
+## Jenkins Pipeline 
+
+![Screenshot from 2024-10-25 17-06-18](https://github.com/user-attachments/assets/c8cb2dc4-6276-415e-9381-2fc18a935c6d)
+
+![Screenshot from 2024-10-25 17-7-16](https://github.com/user-attachments/assets/20744aac-8354-4439-b169-84aa6d8908e7)
+
+![Screenshot from 2024-10-25 17-7-56](https://github.com/user-attachments/assets/34eae66a-70cb-4cab-9be4-aa6807b9ac3e)
+
+![Screenshot from 2024-10-25 17-9-16](https://github.com/user-attachments/assets/34d922a6-e15e-4595-9e11-97f25829bc56)
+
+![Screenshot from 2024-10-25 17-12-13](https://github.com/user-attachments/assets/9c607888-c033-4c8a-af30-1bddccc8777c)
+
+
+## Argo-cd 
+
+![Screenshot from 2024-10-25 17-28-52](https://github.com/user-attachments/assets/b08a036e-8516-4dc5-abc7-14f8db65773a)
+
+  
+## Docker-Hub
+![Screenshot from 2024-10-25 17-26-16](https://github.com/user-attachments/assets/f93fe22f-2546-45c0-992a-62d5a4bfbe22)
+
+
+
+
+
