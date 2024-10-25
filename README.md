@@ -100,7 +100,8 @@ This project is open-source, licensed under the [MIT License](LICENSE).
 
 ![Screenshot from 2024-10-25 17-9-16](https://github.com/user-attachments/assets/34d922a6-e15e-4595-9e11-97f25829bc56)
 
-![Screenshot from 2024-10-25 17-12-13](https://github.com/user-attachments/assets/9c607888-c033-4c8a-af30-1bddccc8777c)
+![Screenshot from 2024-10-25 17-38-57](https://github.com/user-attachments/assets/a829f5fb-27c7-4597-86a0-867596af8b5d)
+
 
 
 ## Argo-cd 
