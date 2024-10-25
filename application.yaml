@@ -10,7 +10,7 @@ spec:
     server: https://kubernetes.default.svc
   source:
     path: k8s
-    repoURL: https://github.com/joisyousef/nodejs.org.git
+    repoURL: https://github.com/SaifmElnagar/nodejs.org
     targetRevision: HEAD
   sources: []
   project: default
